@@ -1,0 +1,8 @@
+*build*
+*dist*
+*tmp*
+*nohup*
+*cache*
+*egg-info*
+tmp/*
+*bot_token*
